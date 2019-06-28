@@ -8,8 +8,8 @@
     <artifactId>maven-auto-generate-test-plugin</artifactId>
     <version>1.0.0</version>
     <packaging>maven-plugin</packaging>
-    <name>maven-auto-generate-test-plugin</name>
-    <description>MAGT-plugin,基于Java的自动测试代码生成Maven插件,项目地址:https://github.com/chenhaoxiang/maven-auto-generate-test-plugin</description>
+    <name>auto-generate-test-maven-plugin</name>
+    <description>AGT-plugin,基于Java的自动测试代码生成Maven插件,项目地址:https://github.com/chenhaoxiang/maven-auto-generate-test-plugin</description>
 
 
     <dependencies>

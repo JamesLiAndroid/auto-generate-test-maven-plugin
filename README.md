@@ -14,7 +14,7 @@
 ```xml
 <plugin> 
   <groupId>com.uifuture.maven.plugins</groupId>
-  <artifactId>maven-auto-generate-test-plugin</artifactId>
+  <artifactId>auto-generate-test-maven-plugin</artifactId>
   <version>1.0.0</version> 
     <configuration>
         <testPackageName>com.jiaxuan.heaven.book.service.impl</testPackageName>
