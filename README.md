@@ -149,6 +149,6 @@ service层的实现类不推荐使用泛型基类service父类进行调用泛型
 
 ![单元覆盖数据](https://raw.githubusercontent.com/chenhaoxiang/auto-generate-test-maven-plugin/master/doc/images/20190620151630.jpg)   
 
-目前1.0.0版本不支持分支的覆盖，导致覆盖率不高，将在1.0.2版本推出分支的多方法mock。大大提高分支覆盖率。      
+目前1.0.0版本不支持分支的覆盖，导致覆盖率不高，将在1.1.2版本推出分支的多方法mock。大大提高分支覆盖率。      
 
 # 贡献人员 
