@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.uifuture.maven.plugins</groupId>
-    <artifactId>maven-auto-generate-test-plugin</artifactId>
+    <artifactId>auto-generate-test-maven-plugin</artifactId>
     <version>1.0.0</version>
     <packaging>maven-plugin</packaging>
     <name>auto-generate-test-maven-plugin</name>
