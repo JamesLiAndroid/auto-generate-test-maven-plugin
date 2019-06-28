@@ -9,7 +9,7 @@
     <version>1.0.0</version>
     <packaging>maven-plugin</packaging>
     <name>auto-generate-test-maven-plugin</name>
-    <description>AGT-plugin,基于Java的自动测试代码生成Maven插件,项目地址:https://github.com/chenhaoxiang/maven-auto-generate-test-plugin</description>
+    <description>AGT-plugin,基于Java的自动测试代码生成Maven插件,项目地址:https://github.com/chenhaoxiang/auto-generate-test-maven-plugin</description>
 
 
     <dependencies>
@@ -63,9 +63,9 @@
     </licenses>
     <scm>
         <tag>master</tag>
-        <url>git@github.com:chenhaoxiang/maven-auto-generate-test-plugin.git</url>
-        <connection>scm:git:git@github.com:chenhaoxiang/maven-auto-generate-test-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:chenhaoxiang/maven-auto-generate-test-plugin.git</developerConnection>
+        <url>git@github.com:chenhaoxiang/auto-generate-test-maven-plugin.git</url>
+        <connection>scm:git:git@github.com:chenhaoxiang/auto-generate-test-maven-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:chenhaoxiang/auto-generate-test-maven-plugin.git</developerConnection>
     </scm>
 
     <developers>
